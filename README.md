@@ -1,15 +1,15 @@
 
 ```go
 rosh := &regularGuy{}
-rosh.UpdateProjectStatus("building cool stuff @ Time by Ping")
+rosh.UpdateCurrentEmployer("Time by Ping")
 rosh.AddPreviousEmployer("Dgraph Labs")
 rosh.AddPreviousEmployer("Virtana")
 rosh.AddPreviousEmployer("Fiduciary Decisions")
+
+rosh.UpdateProjectStatus(fmt.Sprintf("building cool stuff @ %s", rosh.CurrentEmployer))
+
 rosh.AddFavoriteLang("golang")
 ```
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=roshbhatia.visitor-badge)
 
 [![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=roshbhatia&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,3 +18,5 @@ rosh.AddFavoriteLang("golang")
 
 
 Despite the card above, I write a lot of go ;)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=roshbhatia.visitor-badge)
