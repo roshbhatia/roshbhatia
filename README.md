@@ -1,7 +1,11 @@
 
 ```go
 rosh := &regularGuy{}
-rosh.UpdateProjectStatus("building cool stuff @ time by ping")
+rosh.UpdateProjectStatus("building cool stuff @ Time by Ping")
+rosh.AddPreviousEmployer("Dgraph Labs")
+rosh.AddPreviousEmployer("Virtana")
+rosh.AddPreviousEmployer("Fiduciary Decisions")
+rosh.AddFavoriteLang("golang")
 ```
 
 
