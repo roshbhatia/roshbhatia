@@ -1,7 +1,9 @@
 
 ```go
 rosh := &regularGuy{}
+rosh.UpdateProjectStatus("building cool stuff @ time by ping")
 ```
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=roshbhatia.visitor-badge)
 
