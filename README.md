@@ -1,15 +1,4 @@
-
-```go
-rosh := &regularGuy{}
-rosh.AddCurrentEmployer("Time by Ping")
-rosh.AddPreviousEmployer("Dgraph Labs")
-rosh.AddPreviousEmployer("Virtana")
-rosh.AddPreviousEmployer("Fiduciary Decisions")
-
-rosh.AddProjectStatus(fmt.Sprintf("building cool stuff @ %s", rosh.CurrentEmployer))
-
-rosh.AddFavoriteLang("golang")
-```
+backend and site reliability engineering @Time By Ping
 
 [![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=roshbhatia&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
