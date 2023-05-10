@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./cube.svg" />
-</p>
-
 Backend, platform, and site reliability @pinginc
 
 Formerly:
