@@ -1,4 +1,4 @@
-![tar](./tar.png)
+![self](./self.png)
 
 <body>
   
@@ -15,4 +15,4 @@ i like:
 - designing for scale
 </body>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshbhatia&count_private=true&hide=stars,contribs&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![What I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=roshbhatia&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![tar](./tar.png)
