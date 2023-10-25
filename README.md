@@ -1,5 +1,3 @@
-![self](./self.jpeg)
-
 <body>
   
 currently:
