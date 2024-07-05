@@ -1,7 +1,7 @@
 <body>
   
 currently:
-- kubernetes controllers @nike
+- kubernetes controllers @Nike-Inc
   
 formerly:
 - everything engineering @shipyard
