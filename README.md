@@ -1,9 +1,10 @@
 <body>
   
 currently:
-- everything engineering @shipyard
+- kubernetes controllers @nike
   
 formerly:
+- everything engineering @shipyard
 - backend, platform, and site reliability @pinginc
 - site reliability working on multicloud and baremetal Kubernetes @dgraph-io
 - backend working on custom linux and solaris observability integrations @VirtualInstruments
