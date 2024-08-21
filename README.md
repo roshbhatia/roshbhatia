@@ -1,14 +1,16 @@
 <body>
   
 currently:
-- kubernetes controllers @Nike-Inc
+- kubernetes controllers @Nike-Inc (Senior Software Engineer)
   
 formerly:
-- everything engineering @shipyard
-- backend, platform, and site reliability @pinginc
-- site reliability working on multicloud and baremetal Kubernetes @dgraph-io
-- backend working on custom linux and solaris observability integrations @VirtualInstruments
-  
+- backend, platform, and site reliability @pinginc (Senior Software Engineer)
+- observability integrations and site reliabililty @VirtualInstruments (Software Engineer, Site Reliability Engineer)
+
+short lived, but valuable exp nonetheless:
+- kubernetes controllers, multicloud k8s, react @shipyard (Senior Software Engineer)
+- site reliability working on multicloud and baremetal Kubernetes @dgraph-io (Site Reliability Engineer)
+
 i like:
 - distributed systems
 - platform and infrastructure
