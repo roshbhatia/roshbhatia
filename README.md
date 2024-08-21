@@ -7,7 +7,7 @@ formerly:
 - backend, platform, and site reliability @pinginc (Senior Software Engineer)
 - observability integrations and site reliabililty @VirtualInstruments (Software Engineer, Site Reliability Engineer)
 
-short lived, but valuable exp nonetheless:
+also formerly (but short lived):
 - kubernetes controllers, multicloud k8s, react @shipyard (Senior Software Engineer)
 - site reliability working on multicloud and baremetal Kubernetes @dgraph-io (Site Reliability Engineer)
 
