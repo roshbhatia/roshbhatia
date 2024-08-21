@@ -17,4 +17,4 @@ i like:
 - designing for scale
 </body>
 
-![tar](./tar.png)
+![the_cloud](./the_cloud.png)
